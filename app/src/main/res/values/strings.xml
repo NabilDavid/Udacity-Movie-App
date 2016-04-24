@@ -1,0 +1,10 @@
+    <resources>
+    <string name="app_name">FinalProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_popular">Popular</string>
+    <string name="action_rate">Top Rated</string>
+    <string name="action_favoirate">Favourite</string>
+    <string name="title_activity_movies_fragment">MoviesFragment</string>
+    <string name="title_activity_details">Details</string>
+    <string name="action_share">Share Trailer</string>
+    </resources>
